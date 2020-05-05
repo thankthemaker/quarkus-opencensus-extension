@@ -25,6 +25,8 @@
         <quarkus.platform.artifact-id>quarkus-universe-bom</quarkus.platform.artifact-id>
         <quarkus.platform.group-id>io.quarkus</quarkus.platform.group-id>
         <quarkus.platform.version>1.4.1.Final</quarkus.platform.version>
+
+        <opencensus.version>0.26.0</opencensus.version>
     </properties>
 
     <modules>
