@@ -1,0 +1,11 @@
+---
+name: "opencensus-extension"
+metadata:
+  keywords:
+    - "opencensus"
+    - "microservice"
+    - "common"
+  guide: "https://quarkus.io/guides/"
+  categories:
+    - "observability"
+  status: "stable"
